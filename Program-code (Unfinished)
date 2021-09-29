@@ -1,0 +1,12 @@
+When (C-S-C) active 
+   If (match) = active + -- show (programstartscreen)  
+ if (aimbot) = active else set (mousecursor) = (Hitbox) if (mousebutton1clicked) else (follow)= (hitbox) until (hitbox) = deleated 
+If (godmode) = active Set (hitbox) = 0.0000032 
+     if (esp) = active  set Enemey (hitbox) =visable 
+ if (skinchanger) active set (currentweapon) = broadcast 01273
+   if (damagemodifyer) = active set (currentweapon) = (damageoutput) = (100000)
+if (instantdefuse) = active set (defusetime) = (0.1) (defusetime) 
+       if (bunnyhop) = active set (walkspeed) = 1000
+if (instantmapselect) = (mapselec) else (mouse1clic) select (pageclic1)
+
+startup (whestartshow) -(programstartscreen) [create] 
